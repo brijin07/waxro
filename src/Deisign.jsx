@@ -33,7 +33,7 @@ function Deisign() {
           </div>
 
           <div className="flex justify-center pt-5">
-            <button className="btn1 bg-slate-100 w-[40%] md:w-[25%] border-2 border-white p-1">
+            <button className="btn1 bg-slate-100 w-[40%] md:w-[25%] border-2 border-white p-1 text-sm">
               visit website
             </button>
           </div>
@@ -130,7 +130,7 @@ function Deisign() {
             </div>
 
             <div>
-              <p className="font-extralight text-white text-center mt-[20%] pb-5">
+              <p className="font-extralight text-white text-sm text-center mt-[20%] pb-5">
                 © 2019-2023 abcTechnology Solutions Pvt. Ltd. All Rights
                 Reserved
               </p>
