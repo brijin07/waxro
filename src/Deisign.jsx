@@ -38,7 +38,7 @@ function Deisign() {
             </button>
           </div>
 
-          <div className=" mt-20 flex flex-col gap-2     md:flex-row justify-evenly items-center	">
+          <div className=" mt-20 flex flex-col gap-4     md:flex-row justify-evenly items-center	">
             <div className=" p-2 w-[100%] md:w-[30%] h-[260px] ">
               <div className="boximg1 w-full h-[200px]"></div>
               <p className="pt-2 text-center leading-5 text-white font-light">
@@ -121,7 +121,7 @@ function Deisign() {
               </div>
             </div>
             <div className="flex justify-center gap-5 pt-10">
-              <button className="w-[40%] md:w-[25%] border border-slate-200 text-white p-2">
+              <button className="w-[40%] md:w-[25%] border border-slate-200 text-white p-1">
                 Ring us on Skype
               </button>
               <button className="btn1 bg-slate-100 w-[40%] md:w-[25%] border-2 border-white p-1">
