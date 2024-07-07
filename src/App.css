@@ -1,53 +1,41 @@
-.img1{
-  
+.img1 {
   background: url("./images/main.png");
   background-size: 100% 300px;
   background-repeat: no-repeat;
   background-position: center;
- padding-top: 10px;
+  padding-top: 10px;
+}
 
-  }
+.btn1:hover {
+  background-color: rgb(209, 206, 206);
+}
 
-  .btn1:hover{
-    background-color: rgb(209, 206, 206);
-  }
-
-  .boximg1{
-    background: url("./images/box1.png");
+.boximg1 {
+  background: url("./images/box1.png");
   background-size: 100% 300px;
   background-repeat: no-repeat;
   background-position: center;
- padding-top: 10px;
-  }
+  padding-top: 10px;
+}
 
-
-  .boximg2{
-    background: url("./images/Mask\ group.png");
+.boximg2 {
+  background: url("./images/Mask\ group.png");
   background-size: 100% 300px;
   background-repeat: no-repeat;
   background-position: center;
- padding-top: 10px;
-  }
+  padding-top: 10px;
+}
 
-  .boximg3{
-    background: url("./images/box3.png");
+.boximg3 {
+  background: url("./images/box3.png");
   background-size: 100% 200px;
   background-repeat: no-repeat;
   background-position: center;
- padding-top: 10px;
-  }
+  padding-top: 10px;
+}
 
-
-
-
-
-
-
-
-
-  @media (max-width: 600px) {
-   .img1{
+@media (max-width: 600px) {
+  .img1 {
     background-size: 100% 200px;
-
-   }
   }
+}
