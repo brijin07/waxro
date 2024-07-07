@@ -121,10 +121,10 @@ function Deisign() {
               </div>
             </div>
             <div className="flex justify-center gap-5 pt-10">
-              <button className="w-[40%] md:w-[25%] border border-slate-200 text-white p-1">
+              <button className="w-[40%] text-sm md:w-[25%] border border-slate-200 text-white p-1">
                 Ring us on Skype
               </button>
-              <button className="btn1 bg-slate-100 w-[40%] md:w-[25%] border-2 border-white p-1">
+              <button className="btn1 text-sm bg-slate-100 w-[40%] md:w-[25%] border-2 border-white p-1">
                 Contact Us
               </button>
             </div>
