@@ -10,16 +10,17 @@
   background-color: rgb(209, 206, 206);
 }
 
-.boximg1 {
-  background: url("./images/box1.png");
+  .boximg1{
+    background: url("./images/box1.png");
   background-size: 100% 300px;
   background-repeat: no-repeat;
   background-position: center;
   padding-top: 10px;
 }
 
-.boximg2 {
-  background: url("./images/Mask\ group.png");
+
+  .boximg2{
+    background: url("./images/Mask\ group.png");
   background-size: 100% 300px;
   background-repeat: no-repeat;
   background-position: center;
